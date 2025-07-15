@@ -51,9 +51,9 @@ This project was created as part of my Python learning journey to practice GUI d
 - 💬 **Telegram**: [@i_sumit_nagar](https://t.me/Sumitkumarha386)
 
 ## 📸 PREVIEW
-![Main Window](main_screen.png)
-![User Choice](after_choice.png)
-![Result Display](result_display.png)
+![Main Window](https://github.com/sumitkumar01104/Snake-Water-Gun-Game/blob/main/main_screen.PNG?raw=true)
+![User Choice](https://github.com/sumitkumar01104/Snake-Water-Gun-Game/blob/main/after_choice.PNG?raw=true)
+![Result Display](https://github.com/sumitkumar01104/Snake-Water-Gun-Game/blob/main/result_display.PNG?raw=true)
 
 
 
